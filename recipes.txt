@@ -4,6 +4,8 @@ pasta
 chowmein
 chicken
 
+PIZZA
+kakri
 
 
 thanku :)
